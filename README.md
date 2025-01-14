@@ -1,6 +1,3 @@
-# AWS-SaaS-Sales-Analysis_Capstone-Module-2
-Capston Projcet_ 2nd Module "AWS SaaS Sales Analysis"
-
 # AWS SaaS Sales Analysis
 
 This project analyzes AWS SaaS transaction data from 2020 to 2023, focusing on revenue, profit, product performance, and customer behavior.
