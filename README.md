@@ -13,6 +13,7 @@ This project analyzes AWS SaaS transaction data from 2020 to 2023, focusing on r
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
+- [Visualization](#visualization)
 - [License](#license)
 
 ---
